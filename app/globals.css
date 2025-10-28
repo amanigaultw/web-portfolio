@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root, :host {
+  /* --color-teal-300: lab(84.8977% -48.1517 -1.3321);
+  --color-teal-400: lab(76.0109% -53.3483 -2.27907);
+  --color-slate-100: lab(96.286% -.852466 -2.46847);
+  --color-slate-200: lab(91.7353% -.998765 -4.76968);
+  --color-slate-300: lab(84.7652% -1.94535 -7.93337);
+  --color-slate-500: lab(48.0876% -2.03595 -16.5814);
+  --color-slate-600: lab(35.5623% -1.74978 -15.4316);
+  --color-slate-800: lab(16.132% -.318021 -14.6672);
+  --color-slate-900: lab(7.78673% 1.82346 -15.0537); */
+  --color-teal-300: rgb(62, 236, 213);
+  --color-teal-400: lab(76.0109% -53.3483 -2.27907);
+  --color-slate-100: lab(96.286% -.852466 -2.46847);
+  --color-slate-200: lab(91.7353% -.998765 -4.76968);
+  --color-slate-300: lab(84.7652% -1.94535 -7.93337);
+  --color-slate-500: #52b788;
+  --color-slate-600: #40916c;
+  --color-slate-800: #2d6a4f;
+  --color-slate-900: #1b4332;
+}
