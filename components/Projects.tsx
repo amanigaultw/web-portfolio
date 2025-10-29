@@ -4,7 +4,7 @@ import ProjectCard from './ProjectCard'
 const projects = [
   {
     title: 'ShinySnake',
-    description: 'An Interactive Web application made with R Shiny.  The application illustrates how a very simple set of heurisitcs may be applied to automate the game "snake".  This project introduced me to speeding up a given R function with a C++ substitution, adding Javascript and CSS to an R Shiny Application, and training a neural network to pick play the game using previous game states as inputs.',
+    description: 'An Interactive Web application made with R Shiny.  The application illustrates how a very simple set of heurisitcs may be applied to automate the game "snake".  This project introduced me to speeding up a given R function with a C++ substitution, adding Javascript and CSS to an R Shiny Application, and training a neural network to play the game using previous game states as inputs.',
     skills: ['R', 'Shiny', "shinyapp.io", "C++", "CSS", "Javascript"],
     link: 'https://andrewmanigaultw.shinyapps.io/shinySnake/'
   },
