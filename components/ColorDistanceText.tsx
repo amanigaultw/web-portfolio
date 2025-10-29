@@ -19,7 +19,7 @@ interface ColorDistanceTextProps {
 const ColorDistanceText: React.FC<ColorDistanceTextProps> = ({
   text = "hover me",
   maxDistance = 300,
-  closeColor = "rgba(255, 136, 0, 1)",
+  closeColor = "rgba(255, 208, 0, 1)",
   farColor = "#a1a1a1ff",
   style,
 }) => {
@@ -80,10 +80,10 @@ const ColorDistanceText: React.FC<ColorDistanceTextProps> = ({
   return (
     <span
       ref={spanRef}
+      className="whitespace-nowrap"
       style={{
         color,
         transition: "color 0.1s linear",
-
         ...style,
       }}
     >
