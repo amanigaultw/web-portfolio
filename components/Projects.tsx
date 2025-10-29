@@ -3,14 +3,20 @@ import ProjectCard from './ProjectCard'
 
 const projects = [
   {
+    title: 'Neural Network from Scratch',
+    description: 'A Kaggle notebook showing how to code a neural network from scratch in R.  I followed along a cool Python tutorial on writing a digit recognizer neural network.  This project helped me gain a lot of clarity on how neural networks leverage back propagation to improve their predictions.',
+    skills: ['R', 'Python', 'Kaggle'],
+    link: 'https://www.kaggle.com/code/andrewmanigault/samson-zhang-s-neural-network-tutorial-but-in-r'
+  },
+  {
     title: 'ShinySnake',
     description: 'An Interactive Web application made with R Shiny.  The application illustrates how a very simple set of heurisitcs may be applied to automate the game "snake".  This project introduced me to speeding up a given R function with a C++ substitution, adding Javascript and CSS to an R Shiny Application, and training a neural network to play the game using previous game states as inputs.',
-    skills: ['R', 'Shiny', "shinyapp.io", "C++", "CSS", "Javascript"],
+    skills: ['R', 'Shiny', 'shinyapp.io', 'C++', 'CSS', 'Javascript'],
     link: 'https://andrewmanigaultw.shinyapps.io/shinySnake/'
   },
   {
     title: 'Transcript Origin Analysis',
-    description: 'An R package to carry out a genomic analysis technique that compares gene expression between a sample and a reference expression profile. This project was a software port of my some older Java code graciously shared by Dr. Steve Cole.  i initially intended to re-write the procedure in R to better understand how it works. Here I learned how to compile and run Java code, as well as how to do multithreading in R.',
+    description: 'An R package to carry out a genomic analysis technique that compares gene expression between a sample and a reference expression profile. This project was a software port of my some older Java code graciously shared by Dr. Steve Cole.  I initially intended to re-write the procedure in R to better understand how it works. Here I learned how to compile and run Java code, how to do multithreading in R, and how to break down a larger program into data "checkpoints" to check the accuracy of my port.',
     skills: ['R', 'Java'],
     link: 'https://github.com/amanigaultw/toa'
   },
