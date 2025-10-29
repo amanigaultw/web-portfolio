@@ -3,22 +3,25 @@ import PublicationCard from './PublicationCard'
 
 const publications = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-stack e-commerce platform with payment integration, inventory management, and admin dashboard. Features include real-time updates, advanced search, and personalized recommendations.',
-    skills: ['Next.js', 'Stripe', 'PostgreSQL', 'Tailwind'],
-    link: '#'
+    title: 'The Role of Social-Evaluative Threat for Cortisol Profiles in Response to Psychosocial Stress: A Person-Centered Approach.',
+    year: "2025",
+    authors: ['Peggy M. Zoccola', 'Andrew W. Manigault', 'Gabby Decastro', 'Taylor Courtney ', 'Sally S. Dickerson'],
+    journal: "American Psychologist",
+    link: 'https://doi.org/10.1037/amp0001335'
   },
   {
-    title: 'Portfolio Builder',
-    description: 'Web application that helps developers create beautiful portfolio websites. Includes drag-and-drop interface, customizable themes, and one-click deployment.',
-    skills: ['React', 'Node.js', 'MongoDB', 'AWS'],
-    link: '#'
+    title: 'The role of social-evaluative threat for cortisol profiles in response to psychosocial stress: A person-centered approach.',
+    year: "2025",
+    authors: ['Peggy M. Zoccola', 'Andrew W. Manigault', 'Gabby Decastro', 'Taylor Courtney ', 'Sally S. Dickerson'],
+    journal: "American Psychologist",
+    link: 'https://doi.org/10.1037/amp0001335'
   },
   {
-    title: 'Task Management App',
-    description: 'Collaborative task management tool with real-time synchronization, team workspaces, and productivity analytics.',
-    skills: ['TypeScript', 'Firebase', 'React', 'Zustand'],
-    link: '#'
+    title: 'Newborn Cry Acoustics in the Assessment of Neonatal Opioid Withdrawal Syndrome Using Machine Learning',
+    year: "2022",
+    authors: ['Andrew W. Manigault', 'Stephen J. Sheinkopf', 'Harvey F. Silverman', 'Barry M. Lester'],
+    journal: "JAMA Network Open",
+    link: 'https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797784'
   }
 ]
 
