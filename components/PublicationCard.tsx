@@ -1,4 +1,5 @@
 import { ExternalLink } from 'lucide-react'
+import HighlightedList from '@/components/HighlightedList'
 
 type PublicationCardProps = {
   title: string
@@ -36,9 +37,10 @@ export default function PublicationCard({
               <ExternalLink className="ml-1 inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1" />
             </a>
           </h3>
-          <p className="mt-2 text-sm leading-normal">
-            {authors.join("; ")}
-          </p>
+          <HighlightedList 
+          values={authors} 
+          target={'Andrew W Manigault'}
+          maxDistance={400}  />
           <p className="mt-2 text-sm leading-normal">
             {journal}
           </p>
