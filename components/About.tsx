@@ -6,13 +6,13 @@ export default function About() {
       <SectionHeader title="About" />
       <div>
         <p className="mb-4">
-          Back in 2015, I decided to try my hand at creating custom themes and tumbled head first into the rabbit hole of coding and web development. Fast-forward to today, and I've had the privilege of building software for an advertising agency, a start-up, a student-led design studio, and a huge corporation.
+          Coming from a background in health psychology research, I discovered my passion for software while using R to streamline my method for data analysis and manuscript writing. What began as curiosity for coding transformed into a deep appreciation for problem-solving through technology, leading me to pursue a career in software engineering to build meaningful, data-driven solutions.
         </p>
         <p className="mb-4">
-          My main focus these days is building accessible user interfaces for our customers at Company. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built really well under the hood.
+          My main focus these days is developing applications and tools that solve practical problems in support of syndromic surveillance activities for InductiveHealth and the CDC. Much like academic writing, software is a highly iterative process that thrives on strong user feedback and rewards those who are compelled to perpetually edit their work.  I love that my job provides me with the opportunity to frequently explore new tech stacks in support of valuable public health mission—stopping disease through technology.
         </p>
         <p>
-          When I'm not at the computer, I'm usually rock climbing, hanging out with my wife and dog, or running around the city.
+          Outside of work, I'm usually running, hanging out with my wife, cat and dog, or dabbling in game design/development.
         </p>
       </div>
     </section>
