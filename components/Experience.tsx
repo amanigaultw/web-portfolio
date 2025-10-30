@@ -6,7 +6,7 @@ const experiences = [
     period: '2023 — Present',
     role: 'Software Engineer',
     company: 'InductiveHealth Informatics',
-    description: 'Developed containerized tools for monitoring data quality within the National Syndromic Surveillance Program (NSSP) of the Center for Disease Control (CDC), improving data access, usage, and report sharing. Introduced several new applications and enhanced legacy web applications, refactoring backend and improving ease of data exploration.',
+    description: 'Developed containerized tools for monitoring data quality within the National Syndromic Surveillance Program (NSSP) of the Centers for Disease Control and Prevention (CDC), improving data access, usage, and report sharing. Introduced several new applications and enhanced legacy web applications, refactoring backend and improving ease of data exploration.',
     skills: ['R', 'SQL', 'Python', 'Docker', 'JavaScript', 'html', 'css', 'Linux', 'Bash', 'Palantir Foundry']
   },
   {
