@@ -15,7 +15,7 @@ export default function Header() {
           Software Engineer
         </h2>
         <p className="mt-4 max-w-xs leading-normal">
-          I apply an empirical, scientific approach to finding efficient, user-centric solutions to practical problems in software.
+          I apply a scientificly-rooted approach to engineer creative, user-centric software solutions.
         </p>
 
         <Navigation />
