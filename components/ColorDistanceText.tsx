@@ -20,7 +20,7 @@ const ColorDistanceText: React.FC<ColorDistanceTextProps> = ({
   text = "hover me",
   maxDistance = 300,
   closeColor = "rgba(255, 208, 0, 1)",
-  farColor = "#a1a1a1ff",
+  farColor = "#cad5e2",
   style,
 }) => {
   const spanRef = useRef<HTMLSpanElement | null>(null);

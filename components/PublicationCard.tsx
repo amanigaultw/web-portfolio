@@ -40,8 +40,8 @@ export default function PublicationCard({
           <HighlightedList 
           values={authors} 
           target={'Andrew W Manigault'}
-          maxDistance={400}  />
-          <p className="mt-2 text-sm leading-normal">
+          maxDistance={500}  />
+          <p className="mt-2 text-sm leading-normal font-bold">
             {journal}
           </p>
         </div>
