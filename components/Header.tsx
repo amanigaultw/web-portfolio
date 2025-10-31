@@ -22,7 +22,7 @@ export default function Header() {
               speedMax={1.6}
               speedScale={1.5}
             />
-      <div>
+      <div className='z-10'>
         <h1 className="text-2xl font-bold tracking-tight text-slate-200 sm:text-5xl">
           Andrew Manigault, PhD
         </h1>
