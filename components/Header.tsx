@@ -30,7 +30,7 @@ export default function Header() {
           Software Engineer
         </h2>
         <p className="mt-4 max-w-xs leading-normal">
-          I apply a scientificaly-rooted approach to engineer creative, user-centric software solutions.
+          I apply a scientifically-rooted approach to engineer creative, user-centric software solutions.
         </p>
 
         <Navigation />
