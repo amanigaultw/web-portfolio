@@ -32,6 +32,9 @@ export default function Projects() {
   return (
     <section id="projects" className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24">
       <SectionHeader title="Projects" />
+      <p className="mb-12">
+          Most of my professional work requires some level of CDC access and is not linked to my personal github. However, I tried to list some shareable project on this website.
+      </p>
       <div>
         <ul className="group/list">
           {projects.map((project, idx) => (
