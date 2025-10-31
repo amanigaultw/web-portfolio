@@ -10,7 +10,9 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-slate-900 text-slate-300 relative">
       <MouseGradient />
-      <StaticGradient />
+      <StaticGradient position="25% 0%" color="rgba(105, 129, 16, 0.2)" radius={600} opacity={0.3} />
+      <StaticGradient position="75% 60%" color="rgba(105, 129, 16, 0.2)" radius={600} opacity={0.2} />
+      <StaticGradient position="45% 100%" color="rgba(105, 129, 16, 0.2)" radius={600} opacity={0.1} />
       
       <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-16 lg:py-0">
         <div className="lg:flex lg:justify-between lg:gap-12">
