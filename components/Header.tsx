@@ -10,7 +10,7 @@ export default function Header() {
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
       <DottedGlowBackground
               className="pointer-events-none mask-radial-to-90% mask-radial-at-center hidden lg:block"
-              opacity={1}
+              opacity={.75}
               gap={10}
               radius={1.6}
               colorLightVar="--color-neutral-500"
