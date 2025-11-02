@@ -143,3 +143,34 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Set initial SVG color to black for each path */
+.mail-icon .path1,
+.mail-icon .path2,
+.mail-icon .path3,
+.mail-icon .path4,
+.mail-icon .path5 {
+  fill: currentcolor; /* Default color */
+  transition: fill 0.3s ease; /* Smooth transition for fill color */
+}
+
+/* Change colors on hover */
+.mail-icon:hover .path1 {
+  fill: #4caf50; /* Green */
+}
+
+.mail-icon:hover .path2 {
+  fill: #1e88e5; /* Blue */
+}
+
+.mail-icon:hover .path3 {
+  fill: #e53935; /* Red */
+}
+
+.mail-icon:hover .path4 {
+  fill: #c62828; /* Dark Red */
+}
+
+.mail-icon:hover .path5 {
+  fill: #fbc02d; /* Yellow */
+}
