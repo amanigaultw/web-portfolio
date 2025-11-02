@@ -55,6 +55,10 @@ npm run dev
 2. Import your repository to [Vercel](https://vercel.com)
 3. Deploy!
 
+## Contributing
+
+I am always interested to learn how I may improve. If you see something wrong with this project, please reach out directly or create a pull request.
+
 ## Contact
 
 Andrew Manigault - [andrewmanigaultw@gmail.com](mailto:andrewmanigaultw@gmail.com)
