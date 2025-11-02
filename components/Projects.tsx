@@ -3,6 +3,12 @@ import ProjectCard from './ProjectCard'
 
 const projects = [
   {
+    title: 'Web Portfolio (this website)',
+    description: 'A modern, responsive portfolio website built with Next.js, React, and TypeScript. This project was my introduction to this popular tech stack. I enjoyed the way React promotes modular design with components and found that very little was lacking for the purpose of a static web application.',
+    skills: ['Typescript', 'React', 'Next.js', "Tailwind CSS"],
+    link: 'https://github.com/amanigaultw/web-portfolio'
+  },
+  {
     title: 'Neural Network from Scratch',
     description: 'A Kaggle notebook showing how to code a neural network from scratch in R.  I followed along a cool Python tutorial on writing a digit recognizer neural network.  This project helped me gain clarity on how neural networks leverage back propagation to improve their predictions.',
     skills: ['R', 'Python', 'Kaggle'],
