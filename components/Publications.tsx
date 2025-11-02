@@ -119,7 +119,7 @@ const publications = [
     year: "2020",
     authors: ['Joan K Monin', 'Christina M Sperduto', 'Andrew W Manigault', 'Anne Dutton', 'Margaret S Clark', 'Ania M Jastreboff'],
     journal: "Mindfulness",
-    link: ''
+    link: 'https://doi.org/10.1007/s12671-019-01301-9'
   },
   {
     title: 'Gender Differences in Short-term Cardiovascular Effects of Giving and Receiving Support for Health Concerns in Marriage.',
