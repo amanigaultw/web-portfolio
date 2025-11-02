@@ -1,3 +1,4 @@
+import DownloadButton from './DownloadButton'
 import SectionHeader from './SectionHeader'
 
 export default function About() {
@@ -21,6 +22,7 @@ export default function About() {
           Please reach out if you have any question or are seeking to collaborate.  Cheers!
         </p>
       </div>
+      <DownloadButton filePath="/docs/Andrew-Manigault-Resume.pdf" fileName="Andrew-Manigault-Resume.pdf" />
     </section>
   )
 }
