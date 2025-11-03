@@ -19,7 +19,7 @@ export default function About() {
           Outside of work, I'm usually running, hanging out with my wife, cat and dog, or experimenting with game design/development.
         </p>
         <p>
-          Please reach out if you have any question or are seeking to collaborate.  Cheers!
+          Please reach out if you have any questions or are seeking to collaborate.  Cheers!
         </p>
       </div>
       {/* <DownloadButton filePath="/docs/Andrew-Manigault-Resume.pdf" fileName="Andrew-Manigault-Resume.pdf" /> */}
