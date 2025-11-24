@@ -28,9 +28,9 @@ const projects = [
   },
   {
     title: 'Hexpow Mobile Game',
-    description: 'A "connect-3" mobile game made with Unity.  The intent of this project was to familiarize myself with C#, Unity, and the process of releasing apps on the Google Play Store. This project was the start of a new hobby (game dev) and taught me that Google will prune apps that are not regularly updated 😊. Forunately, the game is still playable on the browser as a WebGL build.',
+    description: 'A "connect-3" mobile game made with Unity.  The intent of this project was to familiarize myself with C#, Unity, and the process of releasing apps on the Google Play Store. This project was the start of a new hobby (i.e., game development) and gave me a taste for strictly typed, object-oriented languages like C#.',
     skills: ['C#', 'Unity', 'Google Play Store'],
-    link: 'https://play.unity.com/en/games/3f289e29-55eb-4725-8274-c91bb8cd52a2/webgl-builds'
+    link: 'https://play.google.com/store/apps/details?id=com.A.Manigault.hexpow&pcampaignid=web_share'
   }
 ]
 
