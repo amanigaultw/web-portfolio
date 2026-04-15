@@ -23,7 +23,7 @@ export default function About() {
         </p>
       </div>
       {/* <DownloadButton filePath="/docs/Andrew-Manigault-Resume.pdf" fileName="Andrew-Manigault-Resume.pdf" /> */}
-      <div className="m-15 flex justify-center text-center">
+      {/* <div className="m-15 flex justify-center text-center">
         <a href="/docs/Andrew-Manigault-Resume.pdf" target="blank">
           <Button
             borderRadius="1.75rem"
@@ -32,7 +32,7 @@ export default function About() {
               View Resume
           </Button>
         </a>
-      </div>
+      </div> */}
     </section>
   )
 }

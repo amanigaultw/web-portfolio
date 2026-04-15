@@ -27,7 +27,7 @@ export default function Header() {
           Andrew Manigault, PhD
         </h1>
         <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-          Software Engineer
+          Software Engineer, Researcher
         </h2>
         <p className="mt-4 max-w-xs leading-normal">
           I apply a scientifically-rooted approach to engineer creative, user-centric software solutions.
