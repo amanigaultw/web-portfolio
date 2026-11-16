@@ -7,13 +7,10 @@ export default function About() {
       <SectionHeader title="About" />
       <div>
         <p className="mb-4">
-          I build software the way researchers solve problems — rigorously, iteratively, and with a relentless focus on what the evidence actually shows. My path into engineering started in health psychology, where I spent a decade designing experiments, analyzing data in R, and writing for peer review. That foundation didn't just introduce me to code; it shaped how I think about building software.
+          I found the ideal research career, ironically, in software engineering, where reliability makes progress compound. In theory, scientific progress compounds: each breakthrough opens new lines of inquiry that lead to further breakthroughs. In practice, poor replicability breaks that chain, because results that can’t be reproduced can’t be built upon. In my experience, a colleague’s software library can be installed and built on within minutes, while reproducing a published result can take months, if it’s possible at all. That contrast made me appreciate how much of software engineering tooling exists to make work reproducible. When I moved from analysis scripts to larger programs such as apps and APIs, git tracked every change and made collaboration manageable. Docker standardized environments so software could run on far more machines, and CI/CD and unit tests verified that nothing broke along the way. Each new practice felt like a breakthrough, an exciting new way to solve old problems, because each removed a reason that work fails to carry forward. That focus on reliability is what won me over: it was the missing ingredient for compounding progress.
         </p>
         <p className="mb-4">
-          The skills that make a great engineer — debugging a broken system, gathering user feedback, adapting to new tools — map directly onto scientific practice. Hypothesis testing is just structured debugging. User acceptance testing is just an experiment. Keeping up with a shifting tech landscape is no different from tracking an evolving field of research. I didn't learn these habits in a CS classroom, but I've been using them professionally for years.
-        </p>
-        <p className="mb-4">
-          Today I develop applications and tools for InductiveHealth and the Centers for Disease Control and Prevention (CDC), where I regularly work across new tech stacks in service of a valuable public health mission: stopping disease through technology. I love that this work demands both technical depth and real-world impact.
+          Today I develop/maintain software for InductiveHealth and the Centers for Disease Control and Prevention (CDC), where I regularly work across new tech stacks in service of a valuable public health mission—stopping disease through technology. I love that this work demands both technical depth and real-world impact.
         </p>
         <p className="mb-4">
           Outside of work, I'm usually running, spending time with my wife, cat, and dog, or exploring game design and development.
